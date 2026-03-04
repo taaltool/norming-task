@@ -49,4 +49,4 @@ One CSV row per trial. Key columns:
 
 You are welcome to use and adapt this code for your own research. If you do so, please cite:
 
-> Vokáčová, M. (2026). *jsPsych Code for Psycholinguistic Norming Task* [Computer software]. GitHub. [https://github.com/espressomartiny/norming-task]
+> Vokáčová, M. (2026). *jsPsych Code for Psycholinguistic Norming Task* [Computer software]. GitHub. [https://github.com/taaltool/norming-task]
